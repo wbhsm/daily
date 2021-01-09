@@ -32,6 +32,7 @@
 ## 🗞 daily.dev
 
 > daily.dev is an open-source browser extension that helps developers stay updated with the latest programming news 👩‍💻
+#1
 
 It collects and ranks articles from hundreds of unique publications to help developers stay updated with the latest tech news. You can bookmark posts, sync your data across devices, and read later whenever you want. It works offline and has a progressive web app (PWA) for mobile.
 
